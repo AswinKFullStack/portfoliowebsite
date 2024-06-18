@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(247, 228, 235);
+    padding: 0.5em;
+}
+.container-fluid h1{
+    color: rgb(111, 109, 109);
+    font-size: 2.5rem;
+}
+#home-section{
+    background-color: rgb(245, 248, 247);
+    padding-top: 6em ;
+}
+#service-section{
+    padding-top: 6em ;
+}
+div .card{
+    height: 27em;
+    
+    
+}
+#experiences-section{
+    padding-top: 6em ;
+}
+#mediaIcon{
+    color: rgb(64, 74, 73);
+    font-size: 2rem;
+}
+#Contact-section{
+    padding-top: 6em ;
+}
+
+#submit{
+    border: 0;
+}
+
+footer{
+    background-color: rgb(247, 228, 235);
+   
+}
+#submit:after {
+    background-color:  rgb(247, 228, 235);}
+  
+#submit:active:after {
+    opacity: 1;
+    transition: 3000s
+  }
